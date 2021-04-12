@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://Nobel322.vercel.app/api/spotify)](https://open.spotify.com/user/Nobel322)
+[![Spotify](https://now-playing-profile-nobel322.vercel.app/api/spotify)](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
 
 ### Contact me:
 
