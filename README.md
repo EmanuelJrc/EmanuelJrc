@@ -21,7 +21,7 @@
 ### Spotify Playing 🎧
 
 
-[![Spotify](https://spotify-readme.nobel322.vercel.app/api/spotify)](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
+[![Spotify](https://spotify-readme-nobel322.vercel.app/api/spotify)](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
 
 ### Contact me:
 
