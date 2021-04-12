@@ -56,3 +56,5 @@
 [twitter]: https://twitter.com/Emanuel_jrc
 
 [instagram]: https://instagram.com/Nobel322
+
+[discord]: https://discordapp.com/users/193822954499342338
