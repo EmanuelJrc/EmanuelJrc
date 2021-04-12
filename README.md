@@ -1,12 +1,22 @@
-### Hi there, I'm Emanuel 👋
+### Konichiwa 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Emanuel_jrc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Developer!!
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif">
+</div>
 
-- 🌱 I’m currently learning everything 🤣
+## About ME 💬 :
 
-- ⚡ Fun fact: I love to draw and play guitar 
+### - Learning :
+- ✨ HTML, CSS and js
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Drawing
+- ✨ Playing guitar
+
 
 ### Spotify Playing 🎧
 
@@ -47,11 +57,13 @@
 ---
 
 
-  <summary>:zap: GitHub Stats</summary>
+ <p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
 
-  <img align="left" alt="Nobel322's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Nobel322&show_icons=true&hide_border=true" />
-
-
+*************
 
 [twitter]: https://twitter.com/Emanuel_jrc
 
