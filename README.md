@@ -1,6 +1,6 @@
 ### Konichiwa 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Emanuel_jrc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Emanuel_jrc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEmanuel_jrc&screen_name=Emanuel_jrc)
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif">
@@ -64,6 +64,8 @@
   </p>
 
 *************
+
+[twitter follow]: https://twitter.com/Emanuel_jrc
 
 [twitter]: https://twitter.com/Emanuel_jrc
 
