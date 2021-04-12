@@ -48,7 +48,7 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="playstation" width="26px" img src="https://github.com/Nobel322/Nobel322/blob/master/Assets/Icons/Playstation_icon.png" />
+<img align="left" alt="playstation" width="26px" src="https://github.com/Nobel322/Nobel322/blob/main/Assets/Icons/Playstation_icon.png" />
 
 <br />
 
