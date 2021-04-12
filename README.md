@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-Nobel322.vercel.app/api/spotify-playing" alt="Nobel322 Spotify Playing" width="350" />](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq?si=ymSOGEsBSCOpRv0lf54MdA)
+[![Spotify](https://Nobel322.vercel.app/api/spotify)](https://open.spotify.com/user/Nobel322)
 
 ### Contact me:
 
