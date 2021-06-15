@@ -72,8 +72,8 @@
 
 [twitter follow]: https://twitter.com/Emanuel_jrc
 
-[twitter]: https://twitter.com/Emanuel_jrc
+[twitter]: https://twitter.com/Emanuel__jrc
 
-[instagram]: https://instagram.com/Nobel322
+[instagram]: https://instagram.com/emanuel_jrc
 
 [discord]: https://discordapp.com/users/193822954499342338
