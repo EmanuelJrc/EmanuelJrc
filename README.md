@@ -42,7 +42,7 @@
 <br>
 <p align="center">Here are some of my  <br>
 most used social info ヽ(o＾▽＾o)ノ</p>
-<p align="center"><a href="https://twitter.com/Emanuel__jrc" target="_blank"><img src="./image/twitter.svg"/></a> 
+<p align="center"><a href="https://twitter.com/Emanuel__jrc" target="_blank"><img src="./Assets/twitter.svg"/></a> 
 <a href="https://discordapp.com/users/193822954499342338" target="_blank"><img src="./Assets/discord.svg"/></a>
 </div>
 <br>
