@@ -1,73 +1,87 @@
-### Konichiwa 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Emanuel__jrc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FEmanuel_jrc&screen_name=Emanuel__jrc)
-
+<body>
+<h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
+<br>
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/13626.gif">
+<img src="./image/2.gif">
 </div>
+<br>
+<img src="./image/line1.gif" height ="80px" width ="100%">
+<div>
+<h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
+<img src="./image/about-me.gif?raw=true" height = "220px" align="right">
+<li>
+<b>Name:</b> Emanuel</li>
+<li>
+<b>Gender:</b> Male
+</li>
+<li>
+<b>Hobby:</b> Tech stuff, web development, anime, games, guitar
+</li>
+<br>
+<p><b>     Thanks for reading about my personal stuff<br>
+                                 💯❤️‍🔥</b></p>
+</div>
+<div>
+<h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇</h2>
+<p>
+<img src="./image/knowledge.gif?raw=true" width="420px" align="right">
+</div>
+<div>
 
-## About ME 💬 :
+<p align="left"><img src="./image/css.svg"/> <img src="./image/html.svg"/> <img src="./image/javascript.svg"/> <img src="./image/React.svg"/> <img src="./image/jQuery.svg"/> <img src ="./image/React_Router.svg"/><br><br>
+ <img src="./image/Node.svg"/> <img src="./image/Express.svg"/> <img src = "./image/MySQL.svg"/> <img src ="./image/MongoDB.svg"/><br><br>
+<img src ="./image/Heroku.svg"/> <img src="./image/OnRender.svg"/> <img src ="./image/Netlify.svg"/> <img src="./image/Vercel.svg"/><br>
 
-### - Learning :
-- ✨ HTML, CSS and js
+<br>
+<p align="left">I'm mostly working with <b><i>CSS, HTML, Javascript</i></b> and <b><i>ReactJS</i></b> for the <b>Front-end</b> and <b><i>Node.JS, Express</i></b> for the <b>Back-end</b> and deploy with <b>Heroku, Netlify, Vercel</b></p>
+</p>
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Drawing
-- ✨ Playing guitar
-
-
-### Spotify Playing 🎧
-[<img src="https://novatorem-nobel322.vercel.app/api/spotify" alt="Emanuel's Spotify Playing" width="350" />](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
-[![Spotify](https://novatorem-nobel322.vercel.app./api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
-### Contact me:
-
-[<img align="left" alt="Emanuel_jrc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-[<img align="left" alt="Nobel322 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="Nobel322 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="playstation" width="30px" src="https://github.com/Nobel322/Nobel322/blob/main/Assets/Icons/Playstation_icon.png" />
-
-<br />
-
-<br />
-
----
-
-
+<br>
+<h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
+<img src="./image/contact-me.gif" align="left" width="373.5px" height="208.5px"/>
+<br>
+<p align="center">Here are some of my  <br>
+most used social info ヽ(o＾▽＾o)ノ</p>
+<p align="center"><a href="https://twitter.com/Emanuel__jrc" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a> 
+<p align="center"><a href="https://discordapp.com/users/193822954499342338" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/></a> 
+</p>
+</div>
+<br>
+<div>
+<br>
+<img align="center" src = "./image/hxh.gif" width = "100%" height="350px">
+<div>
+    <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
+    <img src ="./image/line2.gif" align ="right">
+    <br>
  <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=EmanuelJrc&show_icons=true&theme=radical"/>
   </a>
   </p>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div>
+<h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
+<div align="center">
+<img src="./image/the-end.gif" width = "100%">
+</div>
+<hr>
+</div>
 
-*************
-
-[twitter follow]: https://twitter.com/Emanuel_jrc
-
-[twitter]: https://twitter.com/Emanuel__jrc
-
-[instagram]: https://instagram.com/emanuel_jrc
-
-[discord]: https://discordapp.com/users/193822954499342338
+</div>
+</body>
