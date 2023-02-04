@@ -21,7 +21,7 @@
 ### Spotify Playing 🎧
 [<img src="https://novatorem-gamma-olive.vercel.app/api/spotify" alt="ashawe's Spotify Playing" width="350" />](https://open.spotify.com/user/31uxqsjmw4edk4pvhbeyg3iyv3re)
 
-[<img src="https://novatorem-gamma-olive.vercel.app/api/spotify" alt="Emanuel Spotify Playing" width="350" />](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
+[<img src="https://novatorem.ashawe.vercel.app./api/spotify" alt="Emanuel Spotify Playing" width="350" />](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
 
 
 ### Contact me:
