@@ -21,9 +21,6 @@
 ### Spotify Playing 🎧
 [<img src="https://novatorem-nobel322.vercel.app/api/spotify" alt="Emanuel's Spotify Playing" width="350" />](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
 
-[<img src="https://novatorem.ashawe.vercel.app./api/spotify" alt="Emanuel Spotify Playing" width="350" />](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
-
-
 ### Contact me:
 
 [<img align="left" alt="Emanuel_jrc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
