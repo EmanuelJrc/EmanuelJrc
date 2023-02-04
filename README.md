@@ -22,7 +22,12 @@
 
 
 [<img src="https://novatorem-gamma-olive.vercel.app/api/spotify-playing" alt="Emanuel's Spotify Playing" width="350" />](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
+
 [![Spotify](https://novatorem-gamma-olive.vercel.app/api/spotify)](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-gamma-olive.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
+</div>
 
 
 ### Contact me:
