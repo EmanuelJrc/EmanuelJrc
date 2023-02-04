@@ -28,9 +28,9 @@
 </div>
 <div>
 
-<p align="left"><img src="./Assets/css.svg"/> <img src="./Assets/html.svg"/> <img src="./Assets/javascript.svg"/> <img src="./Assets/React.svg"/> <img src="./Assets/jQuery.svg"/> <img src ="./Assets/React_Router.svg"/><br><br>
- <img src="./Assets/Node.svg"/> <img src="./Assets/Express.svg"/> <img src = "./Assets/MySQL.svg"/> <img src ="./Assets/MongoDB.svg"/><br><br>
-<img src ="./Assets/Heroku.svg"/> <img src="./Assets/OnRender.svg"/> <img src ="./Assets/Netlify.svg"/> <img src="./Assets/Vercel.svg"/><br>
+<p align="left"><img src="./Assets/css.svg"/> <img src="./Assets/html.svg"/> <img src="./Assets/javascript.svg"/> <img src="./Assets/React.svg"/> <img src="./Assets/jQuery.svg"/> <br><br>
+ <img src="./Assets/Node.svg"/> <img src="./Assets/Express.svg"/><img src ="./Assets/MongoDB.svg"/><br><br>
+<img src ="./Assets/Heroku.svg"/> <img src ="./Assets/Netlify.svg"/> <img src="./Assets/Vercel.svg"/><br>
 
 <br>
 <p align="left">I'm mostly working with <b><i>CSS, HTML, Javascript</i></b> and <b><i>ReactJS</i></b> for the <b>Front-end</b> and <b><i>Node.JS, Express</i></b> for the <b>Back-end</b> and deploy with <b>Heroku, Netlify, Vercel</b></p>
@@ -42,9 +42,8 @@
 <br>
 <p align="center">Here are some of my  <br>
 most used social info ヽ(o＾▽＾o)ノ</p>
-<p align="center"><a href="https://twitter.com/Emanuel__jrc" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a> 
-<p align="center"><a href="https://discordapp.com/users/193822954499342338" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/></a> 
-</p>
+<p align="center"><a href="https://twitter.com/Emanuel__jrc" target="_blank"><img src="./image/twitter.svg"/></a> 
+<a href="https://discordapp.com/users/193822954499342338" target="_blank"><img src="./Assets/discord.svg"/></a>
 </div>
 <br>
 <div>
@@ -60,15 +59,6 @@ most used social info ヽ(o＾▽＾o)ノ</p>
   </a>
   </p>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
