@@ -21,7 +21,7 @@
 ### Spotify Playing 🎧
 
 
-[<img src="https://spotify-readme-nobel322.vercel.app/api/spotify-playing" alt="Nobel322 Spotify Playing" width="350" />](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
+[<img src="https://spotify-readme-nobel322.vercel.app/api/spotify-playing" alt="Emanuel's Spotify Playing" width="350" />](https://open.spotify.com/user/u9zypggz3h3jkl2ctr6tvnlhq)
 
 
 
