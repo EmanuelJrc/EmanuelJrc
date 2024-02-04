@@ -6,7 +6,7 @@ Aspiring Web Dev
 
 I've been learning to code for the last 3-4 years, Currently a CS student. For now I'm interested in Front-end side of things.
 
-* 🌍  I'm based in Zagreb
+* 🌍  I'm based in Croatia, Zagreb
 * 🖥️  See my portfolio at [My Website](http://emanuel-homepage-seven.vercel.app/)
 * ✉️  You can contact me at [emanueljuricev5@gmail.com](mailto:emanueljuricev5@gmail.com)
 * 🚀  I'm currently working on [Todo-list app](http://github.com/EmanuelJrc/getx_todo_list)
