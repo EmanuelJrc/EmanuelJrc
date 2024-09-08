@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emanuel Juricev
 =======================================================================================================================================
 
-Junior Web Dev
+Web Developer
 ----------------
 
 I've been learning to code for the last 3-4 years, Currently a CS student. For now I'm interested in Front-end side of things.
