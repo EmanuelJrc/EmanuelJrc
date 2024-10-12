@@ -9,8 +9,8 @@ I've been learning to code for the last 3-4 years, Currently a CS student. For n
 * 🌍  I'm based in Croatia, Zagreb
 * 🖥️  See my portfolio at [My Website](http://emanuel-homepage-seven.vercel.app/)
 * ✉️  You can contact me at [emanueljuricev5@gmail.com](mailto:emanueljuricev5@gmail.com)
-* 🚀  I'm currently working on [Todo-list app](http://github.com/EmanuelJrc/getx_todo_list)
-* 🧠  I'm learning NodeJS
+* 🚀  I'm currently working on [KroWallet - Crypto wallet](http://github.com/EmanuelJrc/KroWallet)
+* 🧠  I'm learning React native with Bun
 * 🤝  I'm open to collaborating on Whatever project seems interesting
 * ⚡  I have a cat named Knut
 
